@@ -11,7 +11,7 @@ export class HomeComponent implements OnInit {
   bannerImgs = [
     {
       id: 1,
-      img: '../../assets/images/banner/7dcc28ed89760319.webp',
+      img: '../../assets/images/banner/ef637eb93bf1a887.webp',
     },
     {
       id: 2,
